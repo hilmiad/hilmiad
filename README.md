@@ -1,6 +1,6 @@
 # Hi, I'm Hilmi.
 
-A web and game dev enthusiast in my own fairytale
+A web and game dev enthusiast. Currently passioante currently about frontend development and UI/UX in my own fairytale.
 
 ---
 
