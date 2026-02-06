@@ -12,13 +12,13 @@ A web and game dev enthusiast. Currently passionate about frontend development a
 
 ### Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/csharp/239120" alt="C#" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/unity/000000" alt="Unity" width="40" height="40" />
 </p>
 
 ---
