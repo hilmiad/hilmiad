@@ -1,4 +1,4 @@
-# Hi, I'm [Hilmi] 👋
+# Hi, I'm Hilmi 👋
 
 Seorang yang sangat tertarik dengan dunia pengembangan web dan mobile app dengan dengan fokus keqhlian study Teknologi Multimedia dan Game
 
