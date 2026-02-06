@@ -19,12 +19,9 @@ Seorang yang sangat tertarik dengan dunia pengembangan web dan mobile app
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
 </p>
 
-### 📈 Statistik GitHub
-![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=[USERNAME-ANDA]&show_icons=true&theme=radical)
-
 ---
 
-### 🤝 Mari Terhubung
+### 🤝 Let's connect!
 <p align="left">
 <a href="https://linkedin.com/in/[USERNAME-LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/[USERNAME-INSTAGRAM]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
