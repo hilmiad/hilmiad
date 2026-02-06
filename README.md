@@ -5,9 +5,9 @@ A web and game dev enthusiast in my own fairytale
 ---
 
 ### About me
-- 🎓 Baru saja menyelesaikan pendidikan di **Universitas Siliwangi**
-- 💻 Fokus pada pengembangan **Front-End** dan **Web Design**
-- 🌱 Saat ini sedang mendalami **HTML5, CSS3, dan Javascript.**
+- 🎓 Recent graduate from **Universitas Siliwangi**
+- 💻 Focused on **Front-End** dan **Web Design**
+- 🌱 Currentoy learning for **HTML5, CSS3, dan Javascript.**
 - 📫 Leave me a message!: **adhiawanhilmy10@gmail.com**
 
 ### Tools
